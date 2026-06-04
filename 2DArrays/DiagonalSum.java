@@ -1,5 +1,6 @@
 
 public class DiagonalSum {
+    //brute force case
     // public static int diagonalSum(int matrix[][]) {
     //     int sum = 0;
     //     for (int i = 0; i < matrix.length; i++) {
