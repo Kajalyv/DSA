@@ -7,7 +7,7 @@ public class demo {
         }
     }
     public static void main(String agrs[]){
-        int marks[] = {97, 99, 98};
+        int marks[] = {97, 99, 98, 100};
         update(marks);
         for(int i=0; i<marks.length; i++){
             System.out.print(marks[i]+" ");
@@ -15,3 +15,4 @@ public class demo {
         System.out.println();
     }
 }
+
