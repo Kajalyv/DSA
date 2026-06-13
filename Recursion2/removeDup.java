@@ -17,6 +17,12 @@ public class removeDup {
     }
     public static void main(String[] args) {
         String str = "appnnacollege";
-        removeDuplicates(str, 0, new StringBuilder(""), new boolean[26]);
+        // removeDuplicates(str, 0, new StringBuilder(""), new boolean[26]);
+        int idx = 0;
+        StringBuilder newStr = new StringBuilder("");
+        boolean map[] = new boolean[26];
+
+        removeDuplicates(str, idx, newStr, map);
     }
+    
 }
