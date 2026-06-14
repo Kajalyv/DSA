@@ -1,169 +1,154 @@
-# E-Commerce Web Application
+# Data Structures & Algorithms in Java 🚀
 
-## Overview
+Welcome to my Data Structures and Algorithms repository!
 
-A full-stack E-Commerce Web Application built using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). The platform provides users with a seamless online shopping experience, allowing them to browse products, manage their cart, and place orders through an intuitive and responsive interface.
+This repository contains my solutions to various DSA problems solved during my interview preparation journey. The problems are organized topic-wise to ensure structured learning and easy navigation.
 
-This project demonstrates full-stack development skills, including frontend development, backend API creation, database management, authentication, and deployment.
+## 🎯 Objective
 
----
-
-## Features
-
-### User Features
-
-* User Registration and Login Authentication
-* Browse Products by Category
-* Product Search Functionality
-* Product Details Page
-* Add Products to Cart
-* Update Cart Quantity
-* Remove Products from Cart
-* Secure Checkout Process
-* Responsive Design for Mobile and Desktop
-
-### Admin Features
-
-* Add New Products
-* Update Product Information
-* Delete Products
-* Manage Product Inventory
-* View Customer Orders
+* Strengthen problem-solving skills
+* Master Data Structures and Algorithms
+* Prepare for coding interviews and online assessments
+* Build consistency through daily practice
+* Track progress throughout my DSA journey
 
 ---
 
-## Tech Stack
+## 🛠️ Language Used
 
-### Frontend
-
-* React.js
-* HTML5
-* CSS3
-* JavaScript
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-* Mongoose
-
-### Authentication
-
-* JWT Authentication
-* Bcrypt Password Hashing
-
-### Other Tools
-
-* Git & GitHub
-* Postman
-* Render / Vercel / Netlify (Deployment)
+* Java
 
 ---
 
-## Project Structure
+## 📂 Repository Structure
 
-```bash
-ecommerce-app/
+```text
+DSA/
 │
-├── client/
-│   ├── src/
-│   ├── public/
-│
-├── server/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── middleware/
-│
-├── package.json
-└── README.md
+├── Arrays/
+├── Strings/
+├── Recursion/
+├── Backtracking/
+├── Bit Manipulation/
+├── Linked List/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Binary Search Trees/
+├── Heaps/
+├── Hashing/
+├── Graphs/
+├── Dynamic Programming/
+└── Miscellaneous/
 ```
 
-## Installation
+Each folder contains:
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ecommerce-app.git
-```
-
-### Navigate to Project Directory
-
-```bash
-cd ecommerce-app
-```
-
-### Install Dependencies
-
-Backend
-
-```bash
-npm install
-```
-
-Frontend
-
-```bash
-cd client
-npm install
-```
-
-### Environment Variables
-
-Create a `.env` file in the root directory and add:
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
-
-### Run Backend
-
-```bash
-npm start
-```
-
-### Run Frontend
-
-```bash
-cd client
-npm start
-```
+* Problem Statement
+* Java Solution
+* Optimized Approach (where applicable)
+* Comments for Better Understanding
 
 ---
 
-## Future Enhancements
+## 📚 Topics Covered
 
-* Online Payment Integration
-* Wishlist Functionality
-* Product Reviews and Ratings
-* Order Tracking
-* Email Notifications
-* Recommendation System
+### Arrays
+
+* Two Sum
+* Kadane's Algorithm
+* Merge Intervals
+* Sort Colors
+* Next Permutation
+* Majority Element
+* Set Matrix Zeroes
+
+### Strings
+
+* Palindrome Problems
+* String Compression
+* Anagrams
+* Longest Common Prefix
+* Sliding Window Problems
+
+### Recursion & Backtracking
+
+* N-Queens
+* Sudoku Solver
+* Permutations
+* Subsets
+* Rat in a Maze
+
+### Linked List
+
+* Reverse Linked List
+* Detect Cycle
+* Merge Two Sorted Lists
+* Remove Nth Node
+* Flatten Linked List
+
+### Trees
+
+* Tree Traversals
+* Diameter of Tree
+* Lowest Common Ancestor
+* Balanced Binary Tree
+
+### Graphs
+
+* BFS
+* DFS
+* Topological Sort
+* Shortest Path Algorithms
+
+### Dynamic Programming
+
+* Fibonacci
+* Climbing Stairs
+* Knapsack
+* Longest Common Subsequence
+* DP on Strings
 
 ---
 
-## Learning Outcomes
+## 📈 Progress
 
-Through this project, I gained practical experience in:
-
-* Full Stack Web Development
-* REST API Development
-* Authentication and Authorization
-* Database Design with MongoDB
-* State Management in React
-* Deployment and Version Control
-* Building Scalable Web Applications
+* Solving DSA problems consistently
+* Focusing on Interview-Oriented Questions
+* Practicing LeetCode, Coding Ninjas, and GeeksforGeeks Problems
+* Learning Multiple Approaches and Optimizations
 
 ---
 
-## Author
+## 💡 What You'll Find Here
 
-**Kajal Yadav**
+✔ Clean Java Solutions
 
-Aspiring Full-Stack Developer passionate about building scalable and user-friendly web applications using the MERN Stack.
+✔ Well-Structured Folder Organization
+
+✔ Interview-Focused Problems
+
+✔ Optimized Approaches
+
+✔ Continuous Updates
+
+---
+
+## 🚀 Future Goals
+
+* Solve 300+ DSA Problems
+* Strengthen Dynamic Programming and Graphs
+* Participate in Coding Contests
+* Prepare for Product-Based Company Interviews
+
+---
+
+## 👩‍💻 About Me
+
+Kajal Yadav
+
+Aspiring Software Developer passionate about Java, Data Structures & Algorithms, and Full-Stack Development.
+
+Currently building projects, solving DSA problems, and preparing for software engineering interviews.
+
+⭐ If you find this repository useful, feel free to explore and connect!
